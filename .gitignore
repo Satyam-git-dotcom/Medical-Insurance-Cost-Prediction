@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Data files & zip archives (Dataset license instruction: do not upload raw dataset unless permitted)
+insurance.csv
+archive (2)/
+archive (2).zip
+*.csv
+*.zip
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.log
